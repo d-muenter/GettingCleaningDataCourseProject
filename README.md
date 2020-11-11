@@ -37,3 +37,7 @@ View(data)
 ```
 
 
+
+## About The Codebook
+
+In the codebook I described the first two variables (Subject and activity) and gave a generic description of the other variables. I hope you don't mind that I didn't describe each of the 66 variables and what they mean individually.
