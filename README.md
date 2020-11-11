@@ -32,7 +32,7 @@ I used two for loops to find those parts of the data that pertain to one subject
 For reading the data set in and looking at it in R you can use the following command:
 
 ```
-data <- read.table(file_path)
+data <- read.table(file_path, header = TRUE)
 View(data)
 ```
 
