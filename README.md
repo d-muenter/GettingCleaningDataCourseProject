@@ -2,7 +2,7 @@
 
 ## How Does My Script Work?
 
-### Step 1 (on the project page on coursera)
+### Step 1 (from the instructions on coursera)
 
 First, I read in all the relevant files. 
 
