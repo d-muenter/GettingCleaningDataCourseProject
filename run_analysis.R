@@ -86,5 +86,9 @@ for (i in subjects) {
        
     }
 }
-rm(sub_act_data, a, i, j, k)
+
+## remove all unnecessary data so that the code only outputs the final data set
+rm(sub_act_data, a, i, j, k, data_set, features, subject_test, subject_train,
+   test, test_y, train, train_y, X_test, X_train, activities, rel_var,
+   rel_var_name, subjects, var_mean, var_std)
 
